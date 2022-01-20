@@ -1,5 +1,5 @@
 # Examen-20-01-2022-ordinaria
-
+Este es mi repositorio:https://github.com/AlejandroIlgesias/Examen-20-01-2022-ordinaria.git
 En el ejercicio numero 1 he utilizado la estructura try-except,para prevenir posibles errores a la hora de introducir los datos,de tal froma que el programa no te dejara
 continuar hasta que hayas introducido el valor correcto y de paso evita que el programa se detenga.Despues,he creado dos listas vacias para almacenar los digitos de los numeros
 y he añadido dichos digitos transformando los numeros a datos de tipo cadena para poder iterar sobre ellos y poder completar las listas.Por ultimo he transformado las listas
