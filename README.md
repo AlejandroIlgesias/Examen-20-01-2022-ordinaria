@@ -1,1 +1,7 @@
 # Examen-20-01-2022-ordinaria
+
+En el ejercicio numero 1 he utilizado la estructura try-except,para prevenir posibles errores a la hora de introducir los datos,de tal froma que el programa no te dejara
+continuar hasta que hayas introducido el valor correcto y de paso evita que el programa se detenga.Despues,he creado dos listas vacias para almacenar los digitos de los numeros
+y he añadido dichos digitos transformando los numeros a datos de tipo cadena para poder iterar sobre ellos y poder completar las listas.Por ultimo he transformado las listas
+a conjuntos utilizando la funcion set(),debido a que los conjuntos pueden compararse y  ver si son iguales o no independientemente del orden en el que se encuentren sus elementos.
+En el ejercicio numero 3 primero he inportado  la funcion radnint del modulo random.He programado un input() con el que se determina el numero de jugadores que participan,una variable con la que determinar el numero de jugador que juega cada vez y dos listas vacias,una que almacenara a su vez listas de dos elementos,uno es el numero del jugador y el otro es su correspondiente puntuacion.La otra almacena todaslas puntuaciones,para despues poder determinar cual es el mayor valor de todas ellas utilizando la funcion max().Por ultimo he utilizado un bucle for para comparar el segundo valor de cada lista dentro de la lista que almacena a su vez las listas con el numero de jugador y su correspondiente puntuacion,para encontrar a que jugador corresponde la maxima puntuacion.
